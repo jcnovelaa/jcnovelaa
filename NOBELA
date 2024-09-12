@@ -1,0 +1,20 @@
+pacakge Programming2;
+public class Prog3 {
+    public static void main (String[] args){
+        intum1 = 10, num2 = 5;
+        int sum = 0, diff = 0, prod = 0, quo = 0, rem = 0;
+        sum = num1 + num2;
+        diff = num1 - num2;
+        prod = num1 * num2;
+        quo = num1 / num2;
+        rem = num1 % num2;
+    
+        System.out.print1n("Variable num1 contains " + num1);
+        System.out.print1n("Variable num2 contains " + num2);
+        System.out.print1n("Sum of num1 and num2 is " + sum);
+        System.out.print1n("Difference of num1 and num2 is " + diff);
+        System.out.print1n("Product of num1 and num2 is " + prod);
+        System.out.print1n("Qotient of num1 and num2 is " + quo);
+        System.out.print1n("Remainder after dividing num1 and num2 is " + rem);
+    }
+}
